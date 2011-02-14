@@ -2,14 +2,14 @@ h1. Skeinforge profile RepRap Darwin ABS
 
 h2. Description:
 
-This is a Skeinforge profile for a RepRap Darwin suited for the use of the firmware and electronics of an Ultimaker.
+This is a Skeinforge profile for a RepRap Darwin suited for the use of the firmware and electronics of an Ultimaker 3D printer. 
 
 h2. Links
 
 See:
 
 "Skeinforge":http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge
-"Replicator G":http://replicat.org/
+"Replicator G":http://replicat.org/, see also https://github.com/ErikDeBruijn/ReplicatorG-Erik5D
 "Ultimaker":http://blog.ultimaker.com/
 "Electronics Ultimaker V1.1":http://wiki.protospace.nl/index.php/UltimakerElectronica
 "Repository Firmware":https://github.com/dovadi/RepRapUltimakerFirmware
