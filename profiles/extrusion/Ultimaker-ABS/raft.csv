@@ -3,9 +3,9 @@ Name                          	Value
 WindowPosition	700+0
 Open File for Raft	
 Activate Raft	False
-Add Raft, Elevate Nozzle, Orbit and Set Altitude:	True
-Base Feed Rate Multiplier (ratio):	0.6
-Base Flow Rate Multiplier (ratio):	1.0
+Add Raft, Elevate Nozzle, Orbit and Set Altitude:	true
+Base Feed Rate Multiplier (ratio):	0.85
+Base Flow Rate Multiplier (ratio):	0.9
 Base Infill Density (ratio):	0.4
 Base Layer Thickness over Layer Thickness:	2.0
 Base Layers (integer):	1
@@ -24,7 +24,7 @@ Object First Layer Feed Rate Perimeter Multiplier (ratio):	0.9
 Object First Layer Flow Rate Multiplier (ratio):	1.05
 Operating Nozzle Lift over Layer Thickness (ratio):	0.5
 Raft Additional Margin over Length (%):	1.5
-Raft Margin (mm):	3.0
+Raft Margin (mm):	5.0
 Support Cross Hatch	True
 Support Flow Rate over Operating Flow Rate (ratio):	1.0
 Support Gap over Perimeter Extrusion Width (ratio):	1.0
